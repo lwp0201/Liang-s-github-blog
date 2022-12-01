@@ -18,6 +18,6 @@ author: admin
 #  css_class: fullscreen
 ---
 
-🐈 Hey! I'm **Alice**, a data scientist at Google.
+🐈 Hey! I'm **Liang Weipeng**, a postgraduate at NBU.
 
 Check out my [CV](/about/) and blog posts below 🌈
