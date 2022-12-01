@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Alice Bighetti (吳恩達)
+title: Liang Weipeng (梁威鹏)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 数据科学家
+role: 研二同学
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 💕
 
 # Organizations/Affiliations
 organizations:
-  - name: 腾讯
+  - name: NBU
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests in Information security and forensics、Image modeling and processing.
 
 #interests:
 #- Artificial Intelligence
@@ -47,10 +47,11 @@ social:
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://www.cnblogs.com/lwp-nicol/
+
+
+
+
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
